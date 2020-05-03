@@ -23,8 +23,8 @@ import json
 import math
 import os
 import random
-import modeling
-import optimization
+import bert_qa.modeling
+import bert_qa.optimization
 import tokenization
 import six
 import tensorflow as tf
