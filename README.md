@@ -1,8 +1,5 @@
 # BERT
 
-(Alfred test)
-(Alfred testing again)
-
 **\*\*\*\*\* New November 23rd, 2018: Un-normalized multilingual model + Thai +
 Mongolian \*\*\*\*\***
 
